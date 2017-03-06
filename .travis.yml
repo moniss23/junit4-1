@@ -11,5 +11,4 @@ os:
 
 stepName: true
 
-script:
- - mvn test -B
+script: ./mvnw verify
