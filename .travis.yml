@@ -11,4 +11,5 @@ os:
 
 stepName: true
 
-script: ./mvnw verify
+script:
+ ./mvnw test
