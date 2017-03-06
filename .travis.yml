@@ -8,5 +8,8 @@ jdk:
 
 os:
  - windows
+
+stepName: true
+
 script:
  - mvn test -B
